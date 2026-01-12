@@ -33,6 +33,8 @@ Adı = "Eros"
 Soyadı = "Izem"
 Görevi = "Öğrenci"
 
+
 Bilgileri = [Adı,Soyadı,Görevi]
+
 
 print("kişnin adı:{},Kişinin Soyadı:{}, Kişinin Görevi:{}".format(Bilgileri[0],Bilgileri[1],Bilgileri[2]))
