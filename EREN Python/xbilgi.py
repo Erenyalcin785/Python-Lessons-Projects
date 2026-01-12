@@ -1,2 +1,3 @@
-kullanici_adi ="erenyalcin010101@gmail.com"
-sifre ="Erenoska12."
+kullanici_adi ="----1@gmail.com"
+
+sifre ="123456"
