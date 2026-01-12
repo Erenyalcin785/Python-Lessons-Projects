@@ -8,7 +8,6 @@
 
 # print(Insan.Ad)
 # print(Insan.Sacrengi)
-
 #----------------------------------------------------------------------
 
 class Insan:
@@ -24,4 +23,5 @@ Insan2 = Insan("Mina","Aysel",25,"Sarı")
 
 print(Insan1.Ad)
 print(Insan2.Ad)
+
 
