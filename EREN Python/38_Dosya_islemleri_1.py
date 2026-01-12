@@ -11,8 +11,8 @@
 dosya = open("C:/Users\MONSTER/Desktop/Merhaba","a") 
 # direkt f5 ile çalıştırabilirsin slashlar değişti unutma 
 
-
 dosya.write("\nMerhaba Ben Eren")
+
 
 
 dosya.close()                                 
