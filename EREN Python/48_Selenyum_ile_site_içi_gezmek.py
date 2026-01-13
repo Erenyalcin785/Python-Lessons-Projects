@@ -22,7 +22,6 @@ time.sleep(2)
 kitapara.send_keys(Keys.ENTER)
 time.sleep(3)
 
-
 for i in range(1,10):
 
     bilgi = driver.find_element("xpath","/html/body/div[1]/div[3]/div/div/main/div[3]/div[1]/div[{}]/div/div[2]/h3[1]/a".format(i))
@@ -37,3 +36,4 @@ driver.close()
 #/html/body/div[1]/div[3]/div/div/main/div[2]/div[1]/div[{}]/div/div[4]/h3[1]
 
 #/html/body/div[1]/div[3]/div/div/main/div[2]/div[1]/div[{}]/div/div[4]/h3[1]/a
+
