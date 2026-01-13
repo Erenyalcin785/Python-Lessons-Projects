@@ -29,11 +29,11 @@ for i in range(1,10):
 
     print(bilgi.text)
 
-
 #kitap1 =driver.find_element("xpath", "xpath","/html/body/div[1]/div[3]/div/div/main/div[3]/div[1]/div[1]/div/div[2]/h3[1]/a")
 #kitap2 =driver.find_element("xpath", "xpath","/html/body/div[1]/div[3]/div/div/main/div[3]/div[1]/div[2]/div/div[2]/h3[1]/a")
 #kitap3= driver.find_element("xpath", "xpath","/html/body/div[1]/div[3]/div/div/main/div[3]/div[1]/div[]/div/div[2]/h3[1]/a")
 
 driver.close()
 #/html/body/div[1]/div[3]/div/div/main/div[2]/div[1]/div[{}]/div/div[4]/h3[1]
+
 #/html/body/div[1]/div[3]/div/div/main/div[2]/div[1]/div[{}]/div/div[4]/h3[1]/a
